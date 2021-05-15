@@ -1,5 +1,5 @@
 # EDSS_module_4
-Here is the code for creating an image classification model using machine learning! Check out our blog post where we talk about the process of creating this model and how ML can be used in biology research!
+Here is the code for creating an image classification model using machine learning! This was created as a team effort by Rebecca Salcedo, Carmen Le, Jeremiah Ets-Hokin, and Saul Gamboa. The code is a collaborative effort between us, Dr. Ilmi Yoon and Dr. Pleuni Pennigs from San Francisco State University, https://twitter.com/Ana_Caballero_H, and researchers at Oxford who wrote the original VGG16 image classification model (https://arxiv.org/abs/1409.1556). Check out our blog post where we talk about the process of creating this model and how ML can be used in biology research!
 
 
 We split the project into two parts: splitting the images into training/test/validation folders and then actually creating and training the model.
